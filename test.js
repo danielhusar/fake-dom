@@ -5,5 +5,4 @@ test('Globals', t => {
 	t.ok(global.document);
 	t.ok(global.window);
 	t.ok(global.navigator);
-	t.ok(global.navigator);
 });
