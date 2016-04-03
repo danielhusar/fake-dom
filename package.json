@@ -1,6 +1,6 @@
 {
   "name": "fake-dom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create globals for window and document",
   "license": "MIT",
   "repository": "danielhusar/fake-dom",
@@ -19,7 +19,12 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "dom",
+    "document",
+    "window",
+    "stub",
+    "fake",
+    "jsdom"
   ],
   "dependencies": {
     "jsdom": "^8.2.0"
