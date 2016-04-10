@@ -1,6 +1,6 @@
 {
   "name": "fake-dom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create globals for window and document",
   "license": "MIT",
   "repository": "danielhusar/fake-dom",
