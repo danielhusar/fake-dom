@@ -1,6 +1,6 @@
 {
   "name": "fake-dom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create globals for window and document",
   "license": "MIT",
   "repository": "danielhusar/fake-dom",
@@ -30,6 +30,6 @@
     "jsdom": "^8.2.0"
   },
   "devDependencies": {
-    "ava": "^0.12.0"
+    "ava": "^0.14.0"
   }
 }
